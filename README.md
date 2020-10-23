@@ -5,4 +5,4 @@ Digital Game Design 404 Team Repo
 Done for both this repo and the class portfolio.
 
 ## Lightning Game
-[To access the lightining Game, please click here](../Game)
+[To access the lightining Game, please click here](https://ammarwa.github.io/404-Not-Found/Game/)
